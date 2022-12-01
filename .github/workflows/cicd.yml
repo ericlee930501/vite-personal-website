@@ -22,8 +22,8 @@ jobs:
     runs-on: ubuntu-latest
     env:
       DEPLOY_TOKEN: ${{ secrets.DEPLOY_TOKEN }}
-      USER_NAME   : jd615645
-      USER_EMAIL  : jd615645@gmail.com
+      USER_NAME   : ericlee930501
+      USER_EMAIL  : ericlee930501@gmail.com
       PUBLISH_DIR : ./dist
 
     # Steps represent a sequence of tasks that will be executed as part of the job
